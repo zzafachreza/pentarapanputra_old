@@ -124,7 +124,7 @@ export default function Masuk({navigation, route}) {
 
     if(kirim.foto==null){
       alert('Foto Masih kosong, silahkan untuk selfie !');
-    }else if(jarak >= toleransi){
+    }else if(jarak >= toleransi && data.dinas_luar=='YA'){
 
       alert('Maaf jarak toleransi Anda tidak sesuai, maksimal ' + toleransi + ' Meter dari titik ');
     }else{
