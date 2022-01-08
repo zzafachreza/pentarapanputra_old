@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
                     "source": "/Users/setiabudhi/.gradle/caches/transforms-3/8e447598772965d2ad9cfe6002f6eb7d/transformed/core-1.5.0/res/values-sr/values-sr.xml",

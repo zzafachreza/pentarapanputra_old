@@ -28,6 +28,7 @@ export default function Masuk({navigation, route}) {
   const [loading, setLoading] = useState(true);
   const [latitude, setLatitude] = useState('');
   const [longitude, setLongitude] = useState('');
+  const [toleransi,setToleransi] = useState(0);
   const [data, setData] = useState({
     nama_lengkap: null,
     email: null,
@@ -40,7 +41,7 @@ export default function Masuk({navigation, route}) {
     foto: null,
     jenis: 'PULANG',
   });
-
+  const [jarak,setJarak] = useState(0);
   const options = {
     includeBase64: true,
     quality: 0.5,
@@ -74,6 +75,14 @@ export default function Masuk({navigation, route}) {
   };
 
   useEffect(() => {
+
+
+    axios
+    .get('https://pentarapanputra.zavalabs.com/api/company.php')
+    .then(tol => {
+      setToleransi(tol.data.toleransi);
+    });
+
     getData('user').then(res => {
       setData(res);
       console.log(res);
@@ -94,11 +103,14 @@ export default function Masuk({navigation, route}) {
             longitude: location.longitude,
           });
 
-          const jarak = getDistance(
-            {latitude: res.latitude, longitude: res.longitude},
+          const ProsesJarak = getDistance(
+            {latitude: res.user_latitude, longitude: res.user_longitude},
             {latitude: location.latitude, longitude: location.longitude},
+           
             1,
           );
+          setJarak(ProsesJarak);
+
         })
         .catch(error => {
           setLoading(false);
@@ -109,18 +121,25 @@ export default function Masuk({navigation, route}) {
   }, []);
 
   const simpan = () => {
+
+    if(kirim.foto==null){
+      alert('Foto Masih kosong, silahkan untuk selfie !');
+    }else if(jarak >= toleransi){
+
+      alert('Maaf jarak toleransi Anda tidak sesuai, maksimal ' + toleransi + ' Meter dari titik ');
+    }else{
+      
     setLoading(true);
-    // alert(kirim.suhu.length);
-    console.log('kirim ke server', kirim);
 
     axios
-      .post('https://absen.zavalabs.com/api/absen_add.php', kirim)
+      .post('https://pentarapanputra.zavalabs.com/api/absen_add.php', kirim)
       .then(x => {
         setLoading(false);
         alert('Absensi Pulang Berhasil Di Kirim');
         console.log('respose server', x);
         navigation.navigate('MainApp');
       });
+    }
   };
   return (
     <SafeAreaView style={styles.page}>
@@ -174,6 +193,17 @@ export default function Masuk({navigation, route}) {
           justifyContent: 'center',
           alignItems: 'center',
         }}>
+             {data.dinas_luar == "YA" && (
+      
+      <Text 
+    style={{
+      fontFamily: fonts.secondary[800],
+      fontSize: windowWidth / 25,
+      color:colors.tertiary
+    }}>DINAS LUAR KOTA - {jarak} Meter</Text>
+   
+    
+  )}
         <Text
           style={{
             fontFamily: fonts.secondary[600],

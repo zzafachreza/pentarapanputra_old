@@ -102,7 +102,7 @@ export default function EditProfile({navigation, route}) {
   const simpan = () => {
     setLoading(true);
     console.log('kirim edit', data);
-    axios.post('https://absen.zavalabs.com/api/profile.php', data).then(res => {
+    axios.post('https://pentarapanputra.zavalabs.com/api/profile.php', data).then(res => {
       console.log(res);
       storeData('user', res.data);
       setLoading(false);

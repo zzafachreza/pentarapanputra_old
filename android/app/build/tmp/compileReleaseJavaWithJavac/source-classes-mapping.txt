@@ -1,9 +1,0 @@
-com/zavalabsabsen/MainActivity.java
- com.zavalabsabsen.MainActivity
-com/zavalabsabsen/BuildConfig.java
- com.zavalabsabsen.BuildConfig
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
-com/zavalabsabsen/MainApplication.java
- com.zavalabsabsen.MainApplication
- com.zavalabsabsen.MainApplication$1

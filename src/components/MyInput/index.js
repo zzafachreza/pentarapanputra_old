@@ -55,6 +55,7 @@ export default function MyInput({
         </Text>
       )}
       <TextInput
+      maxLength={6}
         multiline={multiline}
         autoFocus={autoFocus}
         onFocus={onFocus}

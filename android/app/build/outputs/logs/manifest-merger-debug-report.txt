@@ -1,33 +1,33 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:1-53:12
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:1-53:12
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:1-53:12
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:1-53:12
-MERGED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:1-53:12
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:1-53:12
+MERGED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:1-53:12
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/5cd1d27d9794dbf1e66fd6d5f03356dd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/552a6179a3f562b64ebb531980edeef1/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/8a753cf664f0135ec5390e94058163dd/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/064a6e8a5a0cfa086c212a501712b52d/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-43:12
-MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-43:12
+MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-27:12
 MERGED from [com.google.firebase:firebase-analytics:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/222769f7a28ff71e6361d8591176b45b/transformed/jetified-firebase-analytics-19.0.2/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-async-storage_async-storage] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-community_masked-view] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-picker_picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-fast-image] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
-MERGED from [:react-native-permissions] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-push-notification] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-reanimated] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-safe-area-context] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-vector-icons] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-async-storage_async-storage] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-permissions] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/setiabudhi/.gradle/caches/transforms-3/21e302c6531efb1b4963a78cc38fec93/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/f9196d3f67c1339bed289e392b2238ec/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /Users/setiabudhi/.gradle/caches/transforms-3/ac87ec9baf45aca05e38a1817411e51a/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
@@ -118,34 +118,34 @@ MERGED from [androidx.print:print:1.0.0] /Users/setiabudhi/.gradle/caches/transf
 MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/setiabudhi/.gradle/caches/transforms-3/b78acf07423c563fff69fffb288dfd4e/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/setiabudhi/.gradle/caches/transforms-3/edc0804a5f2f0ad80c5e90428986cf36/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/f6015d48f5ab7990a1513fb3697a19fc/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:2:1-13:12
 	package
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:2:3-30
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:2:3-30
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:1-53:12
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:1-53:12
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:4:4-66
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:4:4-66
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/5cd1d27d9794dbf1e66fd6d5f03356dd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/5cd1d27d9794dbf1e66fd6d5f03356dd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
-MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.gms:play-services-measurement:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/a873de14032f898acadc365271d7d9a4/transformed/jetified-play-services-measurement-19.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/a873de14032f898acadc365271d7d9a4/transformed/jetified-play-services-measurement-19.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/37f6096ac9b131f3c694a4d121a02d90/transformed/jetified-play-services-measurement-api-19.0.2/AndroidManifest.xml:22:5-67
@@ -161,23 +161,23 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/52871e64e8c9d85257c56a0459c52ec7/transformed/jetified-play-services-measurement-sdk-api-19.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/52871e64e8c9d85257c56a0459c52ec7/transformed/jetified-play-services-measurement-sdk-api-19.0.2/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:4:21-63
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:4:21-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:5:5-80
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:5:22-77
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:5:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:6:4-80
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:6:4-80
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:6:21-77
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:6:21-77
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:7:4-87
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:7:4-87
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:7:21-84
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:7:21-84
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:8:4-78
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:8:4-78
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
 MERGED from [com.google.android.gms:play-services-measurement:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/a873de14032f898acadc365271d7d9a4/transformed/jetified-play-services-measurement-19.0.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/a873de14032f898acadc365271d7d9a4/transformed/jetified-play-services-measurement-19.0.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/37f6096ac9b131f3c694a4d121a02d90/transformed/jetified-play-services-measurement-api-19.0.2/AndroidManifest.xml:23:5-79
@@ -197,27 +197,27 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/52871e64e8c9d85257c56a0459c52ec7/transformed/jetified-play-services-measurement-sdk-api-19.0.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/52871e64e8c9d85257c56a0459c52ec7/transformed/jetified-play-services-measurement-sdk-api-19.0.2/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:8:21-75
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:8:21-75
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:9:4-77
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:9:4-77
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:9:21-75
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:9:21-75
 application
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:12:5-52:19
-MERGED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:12:5-52:19
-MERGED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:12:5-52:19
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-41:19
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-41:19
-MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
-MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:12:5-52:19
+MERGED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:12:5-52:19
+MERGED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:12:5-52:19
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-41:19
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-41:19
+MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
+MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-25:19
 MERGED from [com.google.firebase:firebase-analytics:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/222769f7a28ff71e6361d8591176b45b/transformed/jetified-firebase-analytics-19.0.2/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/222769f7a28ff71e6361d8591176b45b/transformed/jetified-firebase-analytics-19.0.2/AndroidManifest.xml:7:5-20
-MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
-MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
-MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
-MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/setiabudhi/.gradle/caches/transforms-3/21e302c6531efb1b4963a78cc38fec93/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/setiabudhi/.gradle/caches/transforms-3/21e302c6531efb1b4963a78cc38fec93/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/setiabudhi/.gradle/caches/transforms-3/0fbbbd24a5d0ac121f77cdd5106e18b8/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
@@ -277,93 +277,93 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/seti
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] /Users/setiabudhi/.gradle/caches/transforms-3/8e447598772965d2ad9cfe6002f6eb7d/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:14:7-39
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:14:7-39
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:14:7-39
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:14:7-39
 	tools:ignore
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:10:9-48
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:10:9-48
 	android:roundIcon
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:16:7-52
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:16:7-52
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:16:7-52
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:16:7-52
 	tools:targetApi
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:9:9-29
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:9:9-29
 	android:icon
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:15:7-41
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:15:7-41
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:15:7-41
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:15:7-41
 	android:allowBackup
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:17:7-34
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:17:7-34
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:17:7-34
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:17:7-34
 	android:theme
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:18:7-38
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:18:7-38
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:18:7-38
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:18:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:8:9-44
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:8:9-44
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:13:7-38
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:13:7-38
 meta-data#com.dieam.reactnativepushnotification.notification_foreground
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:24:9-25:44
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:24:9-25:44
 	android:value
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:25:21-42
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:25:21-42
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:24:21-97
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:24:21-97
 meta-data#com.dieam.reactnativepushnotification.notification_color
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:27:9-28:54
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:27:9-28:54
 	android:resource
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:28:21-52
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:28:21-52
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:27:21-92
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:27:21-92
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationActions
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:30:9-108
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:30:9-108
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:30:19-105
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:30:19-105
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:31:9-110
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:31:9-110
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:31:19-107
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:31:19-107
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:32:9-38:20
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:32:9-38:20
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:32:19-115
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:32:19-115
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:33:13-37:29
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:33:13-37:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:34:17-79
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:34:17-79
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:34:25-76
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:34:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:35:17-82
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:35:17-82
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:35:25-79
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:35:25-79
 action#com.htc.intent.action.QUICKBOOT_POWERON
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:36:17-81
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:36:17-81
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:36:25-79
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:36:25-79
 activity#com.zavalabsabsen.MainActivity
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:41:7-51:18
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:41:7-51:18
 	android:label
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:43:9-41
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:43:9-41
 	android:launchMode
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:45:9-40
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:45:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:46:9-51
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:46:9-51
 	android:configChanges
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:44:9-86
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:44:9-86
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:42:9-37
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:42:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:47:9-50:25
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:47:9-50:25
 action#android.intent.action.MAIN
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:48:13-65
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:48:13-65
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:48:21-62
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:48:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:49:13-73
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:49:13-73
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml:49:23-70
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml:49:23-70
 uses-sdk
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/5cd1d27d9794dbf1e66fd6d5f03356dd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/5cd1d27d9794dbf1e66fd6d5f03356dd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/552a6179a3f562b64ebb531980edeef1/transformed/jetified-flipper-network-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
@@ -372,44 +372,44 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/setiabudh
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/8a753cf664f0135ec5390e94058163dd/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:11:5-13:41
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/064a6e8a5a0cfa086c212a501712b52d/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/064a6e8a5a0cfa086c212a501712b52d/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-analytics:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/222769f7a28ff71e6361d8591176b45b/transformed/jetified-firebase-analytics-19.0.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/222769f7a28ff71e6361d8591176b45b/transformed/jetified-firebase-analytics-19.0.2/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-async-storage_async-storage] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-picker_picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-picker_picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-fast-image] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-fast-image] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-permissions] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-permissions] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-push-notification] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-push-notification] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-reanimated] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-reanimated] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-community/masked-view/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/setiabudhi/.gradle/caches/transforms-3/21e302c6531efb1b4963a78cc38fec93/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.65.1] /Users/setiabudhi/.gradle/caches/transforms-3/21e302c6531efb1b4963a78cc38fec93/transformed/jetified-react-native-0.65.1/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/f9196d3f67c1339bed289e392b2238ec/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -590,28 +590,28 @@ MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/setiabudhi/.gradle/caches/
 MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/setiabudhi/.gradle/caches/transforms-3/edc0804a5f2f0ad80c5e90428986cf36/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/f6015d48f5ab7990a1513fb3697a19fc/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/f6015d48f5ab7990a1513fb3697a19fc/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:5:22-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:11:9-86
+ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:11:9-86
 	android:name
-		ADDED from /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/src/debug/AndroidManifest.xml:11:19-83
+		ADDED from /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/src/debug/AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/5cd1d27d9794dbf1e66fd6d5f03356dd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/setiabudhi/.gradle/caches/transforms-3/5cd1d27d9794dbf1e66fd6d5f03356dd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
 MERGED from [com.google.android.gms:play-services-measurement:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/a873de14032f898acadc365271d7d9a4/transformed/jetified-play-services-measurement-19.0.2/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/a873de14032f898acadc365271d7d9a4/transformed/jetified-play-services-measurement-19.0.2/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/37f6096ac9b131f3c694a4d121a02d90/transformed/jetified-play-services-measurement-api-19.0.2/AndroidManifest.xml:24:5-68
@@ -625,63 +625,63 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.0] /Users
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/52871e64e8c9d85257c56a0459c52ec7/transformed/jetified-play-services-measurement-sdk-api-19.0.2/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/52871e64e8c9d85257c56a0459c52ec7/transformed/jetified-play-services-measurement-sdk-api-19.0.2/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
 service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-111
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-111
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-108
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-108
 service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-21:19
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-21:19
 	android:exported
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-37
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-95
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-95
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-20:29
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-20:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:17-78
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:17-78
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:25-75
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:25-75
 receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-30:20
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-30:20
 	android:exported
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-36
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-36
 	android:permission
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-73
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-73
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-96
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-96
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-29:29
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-29:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-81
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-81
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-78
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:25-78
 meta-data#firebase_messaging_auto_init_enabled
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-34:36
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-34:36
 	android:value
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-33
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-33
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-64
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-64
 meta-data#com.google.firebase.messaging.default_notification_channel_id
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-37:32
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-37:32
 	android:value
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-29
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-29
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-89
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-89
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:9-40:47
+ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:9-40:47
 	android:resource
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-44
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-44
 	android:name
-		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-84
+		ADDED from [:react-native-firebase_messaging] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-84
 meta-data#app_data_collection_default_enabled
-ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
+ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:36
 	android:value
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-33
 	android:name
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
+ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:19
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/37f6096ac9b131f3c694a4d121a02d90/transformed/jetified-play-services-measurement-api-19.0.2/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/37f6096ac9b131f3c694a4d121a02d90/transformed/jetified-play-services-measurement-api-19.0.2/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-messaging:23.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/f48238677079dc3eb07b0e594999d10b/transformed/jetified-firebase-messaging-23.0.0/AndroidManifest.xml:49:9-55:19
@@ -699,53 +699,53 @@ MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/setiabudhi/.grad
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/setiabudhi/.gradle/caches/transforms-3/6799a108b905afbbb35660eb0b0919d7/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:18-89
 meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
-ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
+ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:85
 	android:value
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-82
 	android:name
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-120
 provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
-ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
+ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-24:38
 	android:authorities
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-86
 	android:exported
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
 	android:initOrder
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-35
 	android:name
-		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
+		ADDED from [:react-native-firebase_app] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-88
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+ADDED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+		ADDED from [:react-native-get-location] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-get-location/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
 provider#com.imagepicker.ImagePickerProvider
-ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
 	android:exported
-		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
 	android:resource
-		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
 	android:name
-		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+		ADDED from [:react-native-image-picker] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
 provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
-ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 	android:grantUriPermissions
-		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 	android:authorities
-		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
 	android:exported
-		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+		ADDED from [:react-native-webview] /Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/a873de14032f898acadc365271d7d9a4/transformed/jetified-play-services-measurement-19.0.2/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.2] /Users/setiabudhi/.gradle/caches/transforms-3/d29b2493da46ec704fdc830520f40462/transformed/jetified-play-services-measurement-impl-19.0.2/AndroidManifest.xml:26:5-110

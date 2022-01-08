@@ -39,7 +39,7 @@ export default function ({navigation, route}) {
   const getDataBarang = () => {
     getData('user').then(res => {
       axios
-        .post('https://absen.zavalabs.com/api/absen_izin.php', {
+        .post('https://pentarapanputra.zavalabs.com/api/absen_izin.php', {
           id_user: res.id,
         })
         .then(x => {
@@ -189,7 +189,7 @@ export default function ({navigation, route}) {
                   onPress: () => {
                     axios
                       .post(
-                        'https://absen.zavalabs.com/api/absen_izin_hapus.php',
+                        'https://pentarapanputra.zavalabs.com/api/absen_izin_hapus.php',
                         {
                           id_izin: item.id_izin,
                         },

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/Users/setiabudhi/.gradle/caches/transforms-3/e9498230d01590ee9ecd256cf0023f1b/transformed/jetified-play-services-base-17.5.0/res/values-iw/values.xml",

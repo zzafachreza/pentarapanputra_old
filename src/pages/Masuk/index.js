@@ -36,6 +36,8 @@ export default function Masuk({navigation, route}) {
     alamat: null,
   });
 
+  const [jarak,setJarak] = useState(0);
+  const [toleransi,setToleransi] = useState(0);
   const [kirim, setKirim] = useState({
     foto: null,
     jenis: 'MASUK',
@@ -74,6 +76,15 @@ export default function Masuk({navigation, route}) {
   };
 
   useEffect(() => {
+
+    axios
+    .get('https://pentarapanputra.zavalabs.com/api/company.php')
+    .then(tol => {
+      setToleransi(tol.data.toleransi);
+    });
+
+
+
     getData('user').then(res => {
       setData(res);
       console.log(res);
@@ -94,11 +105,15 @@ export default function Masuk({navigation, route}) {
             longitude: location.longitude,
           });
 
-          const jarak = getDistance(
-            {latitude: res.latitude, longitude: res.longitude},
+          const ProsesJarak = getDistance(
+            {latitude: res.user_latitude, longitude: res.user_longitude},
             {latitude: location.latitude, longitude: location.longitude},
+           
             1,
           );
+          setJarak(ProsesJarak);
+
+
         })
         .catch(error => {
           setLoading(false);
@@ -109,18 +124,30 @@ export default function Masuk({navigation, route}) {
   }, []);
 
   const simpan = () => {
-    setLoading(true);
-    // alert(kirim.suhu.length);
-    console.log('kirim ke server', kirim);
 
-    axios
-      .post('https://absen.zavalabs.com/api/absen_add.php', kirim)
-      .then(x => {
-        setLoading(false);
-        alert('Absensi Masuk Berhasil Di Kirim');
-        console.log('respose server', x);
-        navigation.navigate('MainApp');
-      });
+
+    if(kirim.foto==null){
+      alert('Foto Masih kosong, silahkan untuk selfie !');
+    }else if(jarak >= toleransi){
+
+      alert('Maaf jarak toleransi Anda tidak sesuai, maksimal ' + toleransi + ' Meter dari titik ');
+    }
+    else{
+      setLoading(true);
+   
+
+      axios
+        .post('https://pentarapanputra.zavalabs.com/api/absen_add.php', kirim)
+        .then(x => {
+          setLoading(false);
+          alert('Absensi Masuk Berhasil Di Kirim');
+          console.log('respose server', x);
+          navigation.navigate('MainApp');
+        });
+    }
+
+   
+   
   };
   return (
     <SafeAreaView style={styles.page}>
@@ -167,6 +194,8 @@ export default function Masuk({navigation, route}) {
           </Text>
           {/* <Text>{data.longitude}</Text> */}
         </View>
+
+        
       </View>
       <View
         style={{
@@ -174,14 +203,29 @@ export default function Masuk({navigation, route}) {
           justifyContent: 'center',
           alignItems: 'center',
         }}>
+
+          {data.dinas_luar == "YA" && (
+      
+              <Text 
+            style={{
+              fontFamily: fonts.secondary[800],
+              fontSize: windowWidth / 25,
+              color:colors.tertiary
+            }}>DINAS LUAR KOTA - {jarak} Meter</Text>
+           
+            
+          )}
+          
         <Text
           style={{
             fontFamily: fonts.secondary[600],
-            fontSize: windowWidth / 15,
+            fontSize: windowWidth / 20,
             marginBottom: 5,
           }}>
           ABSEN MASUK
         </Text>
+
+        
 
         <View>
           <View
@@ -215,6 +259,7 @@ export default function Masuk({navigation, route}) {
           />
         </View>
       </View>
+ 
       <MyButton
         title="MASUK SEKARANG"
         Icons="cloud-upload-outline"

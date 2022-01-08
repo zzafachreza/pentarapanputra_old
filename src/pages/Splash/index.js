@@ -108,20 +108,20 @@ export default function Splash({navigation}) {
           <Text
             style={{
               fontFamily: fonts.secondary[800],
-              fontSize: windowWidth / 9,
+              fontSize: windowWidth / 18,
               color: colors.white,
               textAlign: 'center',
             }}>
-            Z - ABSEN
+            PT. PENTARAPAN PUTRA
           </Text>
           <Text
             style={{
               fontFamily: fonts.secondary[600],
-              fontSize: windowWidth / 20,
+              fontSize: windowWidth / 18,
               color: colors.white,
               textAlign: 'center',
             }}>
-            By ZAVALABS Mobile Apps
+            Aplikasi Absen Online
           </Text>
         </Animated.View>
       </View>
@@ -131,7 +131,7 @@ export default function Splash({navigation}) {
 
 const styles = StyleSheet.create({
   page: {
-    backgroundColor: colors.primary,
+    backgroundColor: colors.white,
     flex: 1,
   },
   image: {

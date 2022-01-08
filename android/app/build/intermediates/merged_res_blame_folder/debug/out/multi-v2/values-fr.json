@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "/Users/setiabudhi/.gradle/caches/transforms-3/f48238677079dc3eb07b0e594999d10b/transformed/jetified-firebase-messaging-23.0.0/res/values-fr/values.xml",

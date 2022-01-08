@@ -79,7 +79,7 @@ export default function Home({navigation}) {
       setUser(res);
 
       axios
-        .post('https://absen.zavalabs.com/api/point.php', {
+        .post('https://pentarapanputra.zavalabs.com/api/point.php', {
           id_member: res.id,
         })
         .then(respoint => {
@@ -94,7 +94,7 @@ export default function Home({navigation}) {
     });
 
     axios
-      .post('https://absen.zavalabs.com/api/update_token.php', {
+      .post('https://pentarapanputra.zavalabs.com/api/update_token.php', {
         id_member: user.id,
         token: token,
       })
@@ -133,8 +133,8 @@ export default function Home({navigation}) {
           backgroundColor: warna,
           padding: 5,
           borderRadius: 10,
-          width: windowWidth / 2.5,
-          height: windowHeight / 5,
+          width: windowWidth / 2.6,
+          height: windowHeight / 5.2,
           elevation: 5,
           justifyContent: 'center',
         }}>
@@ -151,7 +151,7 @@ export default function Home({navigation}) {
             style={{
               fontFamily: fonts.secondary[600],
               color: colors.white,
-              fontSize: windowWidth / 30,
+              fontSize: windowWidth / 32,
               textAlign: 'center',
               // marginHorizontal: 10,
             }}>
@@ -161,7 +161,7 @@ export default function Home({navigation}) {
             style={{
               fontFamily: fonts.secondary[600],
               color: colors.white,
-              fontSize: windowWidth / 30,
+              fontSize: windowWidth / 32,
               textAlign: 'center',
               // marginHorizontal: 10,
             }}>
@@ -191,8 +191,10 @@ export default function Home({navigation}) {
         <View
           style={{
             height: windowHeight / 9,
-            padding: 10,
+            paddingVertical: 5,
+            paddingHorizontal:10,
             marginBottom: 20,
+ 
             backgroundColor: colors.primary,
             flexDirection: 'row',
             // borderBottomLeftRadius: 10,
@@ -202,7 +204,7 @@ export default function Home({navigation}) {
             <View style={{paddingLeft: 10}}>
               <Text
                 style={{
-                  fontSize: windowWidth / 30,
+                  fontSize: windowWidth / 32,
                   color: colors.white,
                   fontFamily: fonts.secondary[400],
                 }}>
@@ -218,7 +220,7 @@ export default function Home({navigation}) {
               </Text>
               <Text
                 style={{
-                  fontSize: windowWidth / 25,
+                  fontSize: windowWidth / 30,
                   color: colors.white,
                   fontFamily: fonts.secondary[600],
                 }}>

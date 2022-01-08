@@ -41,11 +41,11 @@ export default function Login({navigation}) {
   const masuk = () => {
     if (data.nip.length === 0 && data.password.length === 0) {
       showMessage({
-        message: 'Maaf nip dan Password masih kosong !',
+        message: 'Maaf NIK dan Password masih kosong !',
       });
     } else if (data.nip.length === 0) {
       showMessage({
-        message: 'Maaf nip masih kosong !',
+        message: 'Maaf NIK masih kosong !',
       });
     } else if (data.password.length === 0) {
       showMessage({
@@ -56,7 +56,7 @@ export default function Login({navigation}) {
       console.log(data);
       setTimeout(() => {
         axios
-          .post('https://absen.zavalabs.com/api/login.php', data)
+          .post('https://pentarapanputra.zavalabs.com/api/login.php', data)
           .then(res => {
             console.log(res.data);
             setLoading(false);
@@ -68,7 +68,7 @@ export default function Login({navigation}) {
             } else {
               storeData('user', res.data);
               axios
-                .post('https://absen.zavalabs.com/api/update_token.php', {
+                .post('https://pentarapanputra.zavalabs.com/api/update_token.php', {
                   id_member: res.data.id,
                   token: token,
                 })
@@ -104,7 +104,7 @@ export default function Login({navigation}) {
             source={require('../../assets/logo.png')}
             style={{
               resizeMode: 'contain',
-              aspectRatio: 0.8,
+              aspectRatio: 0.5,
             }}
           />
         </View>
@@ -112,7 +112,7 @@ export default function Login({navigation}) {
           <Text
             style={{
               fontFamily: fonts.secondary[400],
-              fontSize: windowWidth / 20,
+              fontSize: windowWidth / 25,
               color: colors.black,
               // maxWidth: 230,
               textAlign: 'center',
@@ -122,8 +122,9 @@ export default function Login({navigation}) {
 
           <MyGap jarak={20} />
           <MyInput
-            label="NIP"
+            label="NIK"
             iconname="card"
+            
             value={data.nip}
             onChangeText={value =>
               setData({

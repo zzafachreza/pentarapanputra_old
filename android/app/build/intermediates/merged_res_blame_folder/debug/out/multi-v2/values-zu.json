@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/ZavalabsAbsen/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/Users/setiabudhi/Documents/react-native/Project/PentarapanPutra/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "/Users/setiabudhi/.gradle/caches/transforms-3/0d1d7e3825e164c0371a3214b05d9257/transformed/jetified-play-services-basement-17.5.0/res/values-zu/values.xml",
